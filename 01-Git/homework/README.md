@@ -74,7 +74,7 @@ En la nueva pantalla, vas a tener que seleccionar el nombre de tu nuevo repo. Cr
 
 Luego elegí la visibilidad del proyecto como público (para tener repos privados tenes que pagar el premium de github).
 
-Por último haz clic en **Crear repositorio**.
+Por último haz clic en **Crear repositoriofffff**.
 
 Listo ya tenes tu propio repo. Ahora vas a poder clonarlo con las intrucciones de más abajo.
 
